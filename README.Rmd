@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # polypack
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/joseailton100224/polypack/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/joseailton100224/polypack/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 O objetivo do pacote é construir uma tabela frequência de uma variável de um data frame.
