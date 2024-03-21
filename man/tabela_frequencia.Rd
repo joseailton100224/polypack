@@ -18,6 +18,6 @@ da \code{variavel_disc_cont}.
 }
 \examples{
 # Tabela de frequência 4/2 = 2
-tabela_frequencia(mb$estatistica)
+tabela_frequencia(mb$Estatist.)
 
 }
