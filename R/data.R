@@ -21,9 +21,7 @@
 #' }
 #'
 #' @note
-#' Dados hipotéticos retirados do livro @book{morettin2017estatística,title={ESTAT{\'I}STICA B{\'A}SICA},
-#'  author={Morettin, P.A. and Bussab, W.O.},isbn={9788502207172},
-#'  year={2017},publisher={Saraiva Educa{\c{c}}{\~a}o S.A.}}.’
+#' Dados hipotéticos retirados do livro MORETTIN, Pedro Alberto e BUSSAB, Wilton de Oliveira. Estatística básica. . São Paulo: Saraiva. . Acesso em: 21 mar. 2024. , 2017.’
 #'
 #' @source \url={https://books.google.com.br/books?id=vDhnDwAAQBAJ},
 "mb"
