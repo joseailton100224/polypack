@@ -1,0 +1,29 @@
+#'Motor Trend Car Road Tests
+#'
+#'A MB Indústria e Comércio, desejando melhorar o nível de seus funcionários em cargos
+#'de chefia, montou um curso experimental e indicou 25 funcionários para a primeira
+#'turma. Os dados referentes à seção a que pertencem, notas e graus obtidos no curso
+#'estão na tabela a seguir.
+#'
+#' @format A data frame with 32 observations on 11 (numeric) variables.
+#'
+#' \describe{
+#'    \item{Administr.}{Grau obtidos no curso de Administração}
+#'    \item{Direito}{Grau obtidos no curso de Direito}
+#'    \item{Economia}{Grau obtidos no curso de Economia}
+#'    \item{Estatist.}{Grau obtidos no curso de Estatística}
+#'    \item{Func.}{Código dofuncionário}
+#'    \item{Ingles}{Grau obtidos no curso de Inglês}
+#'    \item{Metodologia}{Grau obtidos no curso de Metodologia}
+#'    \item{Politica}{Grau obtidos no curso de Política}
+#'    \item{Redacao}{Grau obtidos no curso de Redação}
+#'    \item{Secao}{Seção que o funcionário pertence:(*) (P = departamento pessoal, T = seção técnica e V = seção de vendas) }
+#' }
+#'
+#' @note
+#' Dados hipotéticos retirados do livro @book{morettin2017estatística,title={ESTAT{\'I}STICA B{\'A}SICA},
+#'  author={Morettin, P.A. and Bussab, W.O.},isbn={9788502207172},
+#'  year={2017},publisher={Saraiva Educa{\c{c}}{\~a}o S.A.}}.’
+#'
+#' @source \url={https://books.google.com.br/books?id=vDhnDwAAQBAJ},
+"mb"

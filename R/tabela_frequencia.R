@@ -10,7 +10,7 @@
 #'
 #' @examples
 #' # Tabela de frequência 4/2 = 2
-#' tabela_frequencia(mb$estatistica)
+#' tabela_frequencia(mb$Estatist.)
 #'
 #' @export
 tabela_frequencia<- function(variavel_disc_cont){
