@@ -15,7 +15,7 @@
 #' @export
 tabela_frequencia<- function(variavel_disc_cont){
 
-  range(variavel_disc_cont)
+  # range(variavel_disc_cont)
 
   # calculando a quantidade de classes
 
@@ -30,8 +30,9 @@ tabela_frequencia<- function(variavel_disc_cont){
   # Tamanho da classe, calculando a amplitude (largura) da classe h = L / k
 
   #atenção para a adição de 0.00001
+  # essa adição é para o valor do intervalo superior da ultima classe ser incluido
 
-  tamanho_classe <- (amplitude/quant_classes)
+  tamanho_classe <- (amplitude/quant_classes)+0.00001
   tamanho_classe
 
   # Tabela de distribuição de frequências
