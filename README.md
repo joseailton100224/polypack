@@ -6,8 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-O objetivo do pacote é construir uma tabela dinâmica de uma variável de
-um data frame.
+O objetivo do pacote é construir uma tabela frequência de uma variável
+de um data frame.
 
 ## Installation
 
