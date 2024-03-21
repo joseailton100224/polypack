@@ -2,22 +2,22 @@
 % Please edit documentation in R/tabela_frequencia.R
 \name{tabela_frequencia}
 \alias{tabela_frequencia}
-\title{Tabela de Distribuição de Frequência}
+\title{Tabela de Distribuicao de Frequencia}
 \usage{
 tabela_frequencia(variavel_disc_cont)
 }
 \arguments{
-\item{variavel_disc_cont}{é uma coluna de um dataframe}
+\item{variavel_disc_cont}{e uma coluna de um dataframe}
 }
 \value{
-a tabela de distribuição de frequência da \code{variavel_disc_cont}
+a tabela de distribuicao de frequencia da \code{variavel_disc_cont}
 }
 \description{
-\code{tabela_frequencia()} retorna a tabela de distribuição de frequência
+\code{tabela_frequencia()} retorna a tabela de distribuicao de frequencia
 da \code{variavel_disc_cont}.
 }
 \examples{
-# Tabela de frequência 4/2 = 2
+# Tabela de frequencia 4/2 = 2
 tabela_frequencia(mb$Estatist.)
 
 }

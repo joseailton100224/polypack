@@ -23,5 +23,5 @@
 #' @note
 #' Dados hipotéticos retirados do livro MORETTIN, Pedro Alberto e BUSSAB, Wilton de Oliveira. Estatística básica. . São Paulo: Saraiva. . Acesso em: 21 mar. 2024. , 2017.’
 #'
-#' @source \url={https://books.google.com.br/books?id=vDhnDwAAQBAJ},
+#' @source \url{https://books.google.com.br/books?id=vDhnDwAAQBAJ}
 "mb"
